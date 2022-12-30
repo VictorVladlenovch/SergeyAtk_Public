@@ -1,1 +1,2 @@
 это тест файл 4.
+The file have a new changes.
